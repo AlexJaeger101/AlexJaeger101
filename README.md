@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexJaeger101
-- 👀 I’m interested in Game Development and AI
-- 💞️ I’m looking to collaborate on projects relating to game development
-- 📫 How to reach me alexcjaeger@gmail.com
+- 👀 I’m interested in Gameplay and AI programming
+- 💞️ I’m looking to create and share cool projects related to game development
+- 📫 How to reach me: alexcjaeger@gmail.com
 
 <!---
 AlexJaeger101/AlexJaeger101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
