@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlexJaeger101. A QA Tools Engineer at Bend Studios!
+- 👋 Hi, I’m @AlexJaeger101. A QA Tools Engineer at Bend Studios
 - 👀 I’m interested in Gameplay and AI programming
-- :mag_right: I'm learning 3D Graphics engine applications!
+- :mag_right: I'm learning 3D Graphics engine applications
 - 💞️ I’m looking to create and share cool projects related to game development
 - 📫 How to reach me: alexcjaeger@gmail.com
 
